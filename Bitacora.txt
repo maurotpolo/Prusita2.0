@@ -1,0 +1,9 @@
+LISTA DE PROBLEMAS:
+# Cama Caliente:
+	-Mosfet.
+	-Siempre para a 10°C antes de la temperatura objetivo.
+#Eje Z:
+	-Todas las impresiones salen bajas.
+	-Las varillas roscadas de 5mm no estan alineadas, se ve en la parte superior.
+#Carro:
+	-Hay juego entre los rodamientos lineales y el vasrillas lisas de 8mm.
